@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCost", "PizzaCost\PizzaCost.csproj", "{A61819AD-7BDC-43B9-A0AF-BB475D6341F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaCost", "PizzaCost\PizzaCost.csproj", "{A61819AD-7BDC-43B9-A0AF-BB475D6341F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB336685-15EF-4FA9-AC07-FECBB733CF21}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\debai\Downloads\PizzaClassDigram.png = ..\..\Users\debai\Downloads\PizzaClassDigram.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
